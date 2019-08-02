@@ -61,7 +61,7 @@ const DEFAULT_SERVICES = {
   APICURIO: 'apicurio',
   FUSE_MANAGED: 'fuse-managed',
   RHSSO: 'rhsso',
-  MDC: 'Mobile Developer Console'
+  MDC: 'mdc'
 };
 
 const DEFAULT_TRANSFORMS = [
